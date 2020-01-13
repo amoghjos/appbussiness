@@ -36,7 +36,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <h3>The essential icons pack</h3>
 
-<a href = "https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html"> Absurd Design </a> - 144 Line Icons Sketch Resource
+<a href = "https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html">  144 Line Icons Sketch Resource </a>
 
 <a href = "https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html"> Set of 100 Unified Icons Sketch Resource </a> 
 
