@@ -27,7 +27,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://www.freepik.com/"> Freepik </a> - Collections of templates and designs for pamplet designing and other general use
 
-<a href = "hhttps://icons8.com/ouch/#"> Ouch </a> - Collections of illustrations for every step in user journey
+<a href = "https://icons8.com/ouch/"> Ouch </a> - Collections of illustrations for every step in user journey
 
 <a href = "https://illlustrations.co/"> Open source illustrations kit </a> - Collections of illustrations related to objects or things we see on daily basis or occasions 
 
@@ -36,8 +36,10 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <h3>The essential icons pack</h3>
 
-https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html
-https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html
-https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html
+<a href = "https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html"> Absurd Design </a> - 144 Line Icons Sketch Resource
+
+<a href = "https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html"> Set of 100 Unified Icons Sketch Resource
+
+<a href = "https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html"> Essentials Icon Pack Sketch Resource
 
 <b>If you liked my collection, please hit that star, and if you want to add a resource on this list, feel free to make a pull request! </b>
