@@ -4,31 +4,28 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 # iOS Programming
 
-<h3>Swift</h3>
+<h2>Swift</h2>
 
-https://github.com/pmusolino/PMSuperButton
-PMSuperButton - Library which we can use to edit properties of UIButton from storyboard directly and add animations very easily
+<a href = "https://github.com/pmusolino/PMSuperButton"> PMSuperButton</a> - Library which we can use to edit properties of UIButton from storyboard directly and add animations very easily
 
-https://realm.io/docs/swift/latest
-Realm - Local Persistence storage for mobile apps. Easy to use and highly scalable.
+<a href = "https://realm.io/docs/swift/latest"> Realm for Swift</a> - Local Persistence storage for mobile apps. Easy to use and highly scalable.
 
 
-UI/UX Resources
+# UI/UX Resources
 
-Inspirational Resources 
+<h2>Inspirational Resources </h2>
 
-https://www.opendoodles.com/
-Collections of illustrations to show various day to day activities
+<a href = "https://www.opendoodles.com/ "> OpenDoodles </a> - Collections of illustrations to show various day to day activities
 
-https://www.humaaans.com/
-Used for making human illustrations - Highly customizable.
+<a href = "https://www.humaaans.com/"> Humaaans </a> - Used for making human illustrations - Highly customizable.
 
-https://www.buttsss.com/
-We can use these gifs in a drinking game or party (adult like) app to show acheivements people have made or give them a awatar. 
+<a href = "https://www.buttsss.com/"> Buttsss </a> - We can use these gifs in a drinking game or party (adult like) app to show acheivements people have made or give them a awatar. 
 
-Sketch Resources
 
--The essential icons pack
+<h2>Sketch Resources</h2>
+
+<h4>SThe essential icons pack</h4>
+
 https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html
 https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html
 https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html
