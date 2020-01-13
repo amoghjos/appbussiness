@@ -19,12 +19,25 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://www.opendoodles.com/ "> OpenDoodles </a> - Collections of illustrations to show various day to day activities
 
-<a href = "https://www.humaaans.com/"> Humaaans </a> - Used for making human illustrations - Highly customizable.
+<a href = "https://www.humaaans.com/"> Humaaans </a> - Collection of human illustrations - Highly customizable.
 
-<a href = "https://www.buttsss.com/"> Buttsss </a> - We can use these gifs in a drinking game or party (adult like) app to show acheivements people have made or give them a awatar. 
+<a href = "https://www.buttsss.com/"> Buttsss </a> - Collections of funny animated buttss
+
+<a href = "https://undraw.co/illustrations"> Undraw </a> - Collections of illustrations and features
+
+<a href = "https://www.freepik.com/"> Freepik </a> - Collections of templates and designs for pamplet designing and other general use
+
+<a href = "hhttps://icons8.com/ouch/#"> Ouch </a> - Collections of illustrations for every step in user journey
+
+<a href = "https://illlustrations.co/"> Open source illustrations kit </a> - Collections of illustrations related to objects or things we see on daily basis or occasions 
+
+<a href = "https://absurd.design/#slide-8"> Absurd Design </a> - Collections of art like illustrations in black and white colors. Some designs are paid
+
 
 <h3>The essential icons pack</h3>
 
 https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html
 https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html
 https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html
+
+<b>If you liked my collection, please hit that star, and if you want to add a resource on this list, feel free to make a pull request! </b>
