@@ -4,7 +4,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 # iOS Programming
 
-<h4>Swift</h4>
+<h3>Swift</h3>
 
 <a href = "https://github.com/pmusolino/PMSuperButton"> PMSuperButton</a> - Library which we can use to edit properties of UIButton from storyboard directly and add animations very easily
 
@@ -15,7 +15,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 # UI/UX Resources
 
-<h4>Inspirational Resources </h4>
+<h3>Inspirational Resources </h3>
 
 <a href = "https://www.opendoodles.com/ "> OpenDoodles </a> - Collections of illustrations to show various day to day activities
 
@@ -23,7 +23,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://www.buttsss.com/"> Buttsss </a> - We can use these gifs in a drinking game or party (adult like) app to show acheivements people have made or give them a awatar. 
 
-<h4>The essential icons pack</h4>
+<h3>The essential icons pack</h3>
 
 https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html
 https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html
