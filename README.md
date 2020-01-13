@@ -38,8 +38,8 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://www.sketchappsources.com/free-source/4221-moonshard-free-line-icons-sketch-freebie-resource.html"> Absurd Design </a> - 144 Line Icons Sketch Resource
 
-<a href = "https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html"> Set of 100 Unified Icons Sketch Resource
+<a href = "https://www.sketchappsources.com/free-source/3846-icon-set-sketch-freebie-resource.html"> Set of 100 Unified Icons Sketch Resource </a> 
 
-<a href = "https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html"> Essentials Icon Pack Sketch Resource
+<a href = "https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html"> Essentials Icon Pack Sketch Resource </a> 
 
 <b>If you liked my collection, please hit that star, and if you want to add a resource on this list, feel free to make a pull request! </b>
