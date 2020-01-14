@@ -12,6 +12,10 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://github.com/ChiliLabs/CHIPageControl"> CHIPageControl </a> - Easy to implement page control with animations
 
+<a href = "https://github.com/HeroTransitions/Hero"> HeroTransitions </a> - Create custom transitions and animated objects easily
+
+<a href = "https://github.com/Minitour/AZDialogViewController"> AZDialogViewController </a> - Create snapchat like pop ups which are highly customizable
+
 
 # UI/UX Resources
 
