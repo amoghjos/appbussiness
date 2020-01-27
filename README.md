@@ -4,7 +4,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 # iOS Programming
 
-<h3>Swift</h3>
+<h3>Swift - CocoaPods</h3>
 
 <a href = "https://github.com/pmusolino/PMSuperButton"> PMSuperButton</a> - Library which we can use to edit properties of UIButton from storyboard directly and add animations very easily
 
@@ -15,6 +15,10 @@ I've made this list of all the cool framework, libraries, design, website, resou
 <a href = "https://github.com/HeroTransitions/Hero"> HeroTransitions </a> - Create custom transitions and animated objects easily
 
 <a href = "https://github.com/Minitour/AZDialogViewController"> AZDialogViewController </a> - Create snapchat like pop ups which are highly customizable
+
+<h3>Swift - Tutorial</h3>
+
+<a href = "https://medium.com/snowdog-labs/reproducing-snapchat-navigations-on-ios-part-3-41b7ea1d91bd"> Reproducing Snapchat’s Navigation on iOS  </a> - Making snapchat like navigation
 
 
 # UI/UX Resources
