@@ -55,3 +55,10 @@ I've made this list of all the cool framework, libraries, design, website, resou
 <a href = "https://www.sketchappsources.com/free-source/3771-essentials-icon-pack-sketch-freebie-resource.html"> Essentials Icon Pack Sketch Resource </a> 
 
 <b>If you liked my collection, please hit that star, and if you want to add a resource on this list, feel free to make a pull request! </b>
+
+# App Marketing
+
+<h3>Blog Series</h3>
+
+<a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers
+</a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
