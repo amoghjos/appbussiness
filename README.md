@@ -59,15 +59,17 @@ I've made this list of all the cool framework, libraries, design, website, resou
 # App Marketing
 
 <h3>General</h3>
-<a href = "https://phiture.com/mobilegrowthstack/"> Mobile Growth Stack </a> Blog Publication which contains all latest information on mobile app marketing
+<a href = "https://phiture.com/mobilegrowthstack/"> - Mobile Growth Stack </a> Blog Publication which contains all latest information on mobile app marketing
 
 <h3>ASO</h3>
 
-<a href = "https://asostack.com/"> ASO Stack </a> Blog Publication which contains all latest information on ASO 
+<a href = "https://asostack.com/"> ASO Stack </a> - Blog Publication which contains all latest information on ASO 
 
 <h3>Activation & Retension</h3>
 
 <a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers </a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
+
+<a href = "https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=9"> User Onboard </a> - Website which contains examples of all the popular apps on how they onboard their users
 
 <h3>Apple Search Ads</h3>
 
