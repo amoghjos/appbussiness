@@ -18,6 +18,8 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://github.com/slackhq/PanModal"> PanModal </a> - Bottom sheet pop up like Slack.
 
+<a href = "https://github.com/babylonhealth/DrawerKit"> DrawerKit </a> - Bottom sheet animation like Apple Maps
+
 <h3>Swift - Tutorial</h3>
 
 <a href = "https://medium.com/snowdog-labs/reproducing-snapchat-navigations-on-ios-part-3-41b7ea1d91bd"> Reproducing Snapchat’s Navigation on iOS  </a> - Making snapchat like navigation
