@@ -59,7 +59,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 # App Marketing
 
 <h3>General</h3>
-<a href = "https://phiture.com/mobilegrowthstack/"> - Mobile Growth Stack </a> Blog Publication which contains all latest information on mobile app marketing
+<a href = "https://phiture.com/mobilegrowthstack/"> Mobile Growth Stack </a> - Blog Publication which contains all latest information on mobile app marketing
 
 <h3>ASO</h3>
 
