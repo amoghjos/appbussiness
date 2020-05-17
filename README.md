@@ -58,7 +58,18 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 # App Marketing
 
-<h3>Blog Series</h3>
+<h3>General</h3>
+<a href = "https://phiture.com/mobilegrowthstack/"> Mobile Growth Stack </a> Blog Publication which contains all latest information on mobile app marketing
 
-<a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers
-</a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
+<h3>ASO</h3>
+
+<a href = "https://asostack.com/"> ASO Stack </a> Blog Publication which contains all latest information on ASO 
+
+<h3>Activation & Retension</h3>
+
+<a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers </a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
+
+<h3>Apple Search Ads</h3>
+
+<a href = "https://searchads.apple.com/help/advanced/0022-use-the-campaign-management-api/"> Campaign Management API </a> - API used to measure ASA key metrics like keyword type, campaign name, etc
+
