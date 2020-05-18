@@ -29,6 +29,8 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <h3>Inspirational Resources </h3>
 
+<a href = "https://dribbble.com/"> Dribbble </a> - World's biggest collection of designs which designers use to find inspiration
+
 <a href = "https://www.opendoodles.com/ "> OpenDoodles </a> - Collections of illustrations to show various day to day activities
 
 <a href = "https://www.humaaans.com/"> Humaaans </a> - Collection of human illustrations - Highly customizable.
@@ -79,7 +81,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "http://jira.com/"> Jira </a> - Project management tool
 
-<a href = "https://hubstaff.com/"> Jira </a> - Time tracking tool for managing remote teams
+<a href = "https://hubstaff.com/"> HubStaff </a> - Time tracking tool for managing remote teams
 
 <a href = "https://zoom.us/"> Zoom </a> - Video confrence tool for daily stand up and other meetings
 
