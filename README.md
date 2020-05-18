@@ -75,3 +75,21 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://searchads.apple.com/help/advanced/0022-use-the-campaign-management-api/"> Campaign Management API </a> - API used to measure ASA key metrics like keyword type, campaign name, etc
 
+# Essential tools every app bussiness needs
+
+<a href = "http://jira.com/"> Jira </a> - Project management tool
+
+<a href = "https://hubstaff.com/"> Jira </a> - Time tracking tool for managing remote teams
+
+<a href = "https://zoom.us/"> Zoom </a> - Video confrence tool for daily stand up and other meetings
+
+<a href = "https://zeplin.io/"> Zeplin </a> - Design collobration tool for showing designs to developers. It automatically tells contrainsts of a element in a artboard, so helps developers while making designs. 
+
+<a href = "https://www.figma.com/"> Figma </a> - Design tool for UI designing. It also provides rapid prototyping and real collobration among team members 
+
+<a href = "https://www.invisionapp.com/studio"> Invision Studio </a> - Prototyping tool for making real prototypes for apps and websites. It supports advance animations
+
+<a href = "https://github.com/"> GitHub </a> - Version control tool for developers
+
+
+
