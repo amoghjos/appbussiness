@@ -63,19 +63,21 @@ I've made this list of all the cool framework, libraries, design, website, resou
 <h3>General</h3>
 <a href = "https://phiture.com/mobilegrowthstack/"> Mobile Growth Stack </a> - Blog Publication which contains all latest information on mobile app marketing
 
-<h3>ASO</h3>
+## ASO
 
 <a href = "https://asostack.com/"> ASO Stack </a> - Blog Publication which contains all latest information on ASO 
 
 <a href = "https://drive.google.com/file/d/1ZiyCT34ebdwdJoC2sq_p8B9bVos7t2h6/view?usp=sharing"> ASO for Japan </a> - Slides presented by Azusa Hatano on how to design screenshots for Japanese market and research/target keywords
 
-<h4>App Store Key Take Away</h4>
- - Use 30 character title, 29 character sub title, 80 character short description, 100 characters for keyword feild, use 10 or 8 screenshots, use 3 or 1 videos in preview
- - Title has a huge impact on conversition rate. For example, "Hilly - Super Dating App" to "Hilly - Dating App for Singles" lead to 20% increase in app units/product page view, so use relevant title.
- - Use seasonal metadatas (screenshots, icon, video). For example, hallowen, valentine, chrismas will have different design in USA. Consider these seasonal marketing assets based on localization. 
- - 
+### App Store Key Take Away
 
-<h3>Activation & Retension</h3>
+- Use 30 character title, 29 character sub title, 80 character short description, 100 characters for keyword feild, use 10 or 8 screenshots, use 3 or 1 videos in preview
+
+- Title has a huge impact on conversition rate. For example, "Hilly - Super Dating App" to "Hilly - Dating App for Singles" lead to 20% increase in app units/product page view, so use relevant title.
+
+- Use seasonal metadatas (screenshots, icon, video). For example, hallowen, valentine, chrismas will have different design in USA. Consider these seasonal marketing assets based on localization. 
+
+### Activation & Retension
 
 <a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers </a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
 
@@ -85,7 +87,7 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://searchads.apple.com/help/advanced/0022-use-the-campaign-management-api/"> Campaign Management API </a> - API used to measure ASA key metrics like keyword type, campaign name, etc
 
-# Essential tools every app bussiness needs
+# Essential Tools
 
 <a href = "http://jira.com/"> Jira </a> - Project management tool
 
