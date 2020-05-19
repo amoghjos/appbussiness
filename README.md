@@ -69,6 +69,11 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://drive.google.com/file/d/1ZiyCT34ebdwdJoC2sq_p8B9bVos7t2h6/view?usp=sharing"> ASO for Japan </a> - Slides presented by Azusa Hatano on how to design screenshots for Japanese market and research/target keywords
 
+<h4>App Store Key Take Away</h4>
+ - Use 30 character title, 29 character sub title, 80 character short description, 100 characters for keyword feild, use 10 or 8 screenshots, use 3 or 1 videos in preview
+ - Title has a huge impact on conversition rate. For example, "Hilly - Super Dating App" to "Hilly - Dating App for Singles" lead to 20% increase in app units/product page view, so use relevant title.
+ - Use seasonal metadatas (screenshots, icon, video). For example, hallowen, valentine, chrismas will have different design in USA. Consider these seasonal marketing assets based on localization. 
+ - 
 
 <h3>Activation & Retension</h3>
 
