@@ -1,6 +1,4 @@
-# Awesome Resources
-
-I've made this list of all the cool framework, libraries, design, website, resources, or anything I find online and which can be used for making awesome apps
+# Resources for Building an App Business 
 
 # iOS Programming
 
@@ -82,6 +80,8 @@ I've made this list of all the cool framework, libraries, design, website, resou
 - Focusing on high traffic keyword can sometimes be counter productive for a relatively new apps. Target long tail keywords with good traffic (ASA score above 20) and low compitition. 
 
 - If you're unable to rank for any good traffic keyword, then consider low traffic keywords (ASA between 10 to 20) only if the difficulty is low enough. In App Radar, the difficulty score of 30 or below is considered low difficulty, whereas 70 is lot more difficult. 
+
+- Number of apps ranking for a certain keyword is also an indicator for difficulty. If there are less than 100 apps ranking for a keyword, then it might have low difficulty, regardless of the diffuculty score. High traffic keyword with less number of apps are usually brand keywords. 
 
 - ASA score grows exponential to the number of impressions (downloads). A score of 45 is way far better than 25. 
 
