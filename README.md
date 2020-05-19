@@ -93,5 +93,4 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://github.com/"> GitHub </a> - Version control tool for developers
 
-
-
+<a href = "https://crowdin.com/"> Crowdin </a> - Automating app's localization, instead of manual translation. 
