@@ -67,6 +67,9 @@ I've made this list of all the cool framework, libraries, design, website, resou
 
 <a href = "https://asostack.com/"> ASO Stack </a> - Blog Publication which contains all latest information on ASO 
 
+<a href = "https://drive.google.com/file/d/1ZiyCT34ebdwdJoC2sq_p8B9bVos7t2h6/view?usp=sharing"> ASO for Japan </a> - Slides presented by Azusa Hatano on how to design screenshots for Japanese market and research/target keywords
+
+
 <h3>Activation & Retension</h3>
 
 <a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers </a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
