@@ -69,6 +69,8 @@
 
 ### App Store Key Take Away
 
+- Main factors which affect keyword ranking are conversition rate, keyword selection (competition), keyword placement in metadata, ratings and reviews, rentension & engagement, monitization, download velocity, Apple Search Ads (coorelation factor), category benchmark, competition benchmark, Apple Feature, localization, update frequency, and backlinks.  
+
 - Use 30 character title, 29 character sub title, 80 character short description, 100 characters for keyword feild, use 10 or 8 screenshots, use 3 or 1 videos in preview
 
 - Title has a huge impact on conversition rate. For example, "Hilly - Super Dating App" to "Hilly - Dating App for Singles" lead to 20% increase in app units/product page view, so use relevant title.
