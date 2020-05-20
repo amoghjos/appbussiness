@@ -85,7 +85,7 @@
 
 - ASA score grows exponential to the number of impressions (downloads). A score of 45 is way far better than 25. 
 
-- We can use typo of certain popular keywords. 
+- Using misspellings, typos, and abbreviations as keyword is okay
 
 - Keyword research tools: Apple Search Ads, App Follow, Mobile Action Recommendation & Keyword Spy, App Radar, <a href = "https://www.onelook.com/"> OneLook </a> 
 
