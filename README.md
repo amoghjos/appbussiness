@@ -85,7 +85,9 @@
 
 - ASA score grows exponential to the number of impressions (downloads). A score of 45 is way far better than 25. 
 
-- Using misspellings, typos, and abbreviations as keyword is okay
+- We should use misspellings, typos, and abbreviations of an app's brand name. As we achieve #1 rank due to extreme high conversition rate (since it's our brand), we can later remove it also and still maintain high ranking. 
+
+- Algorithm penalize for using brand name of compitior in metadata, so don't use it. 
 
 - Keyword research tools: Apple Search Ads, App Follow, Mobile Action Recommendation & Keyword Spy, App Radar, <a href = "https://www.onelook.com/"> OneLook </a> 
 
