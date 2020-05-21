@@ -73,6 +73,10 @@
 
 - Use 30 character title, 29 character sub title, 80 character short description, 100 characters for keyword feild, use 10 or 8 screenshots, use 3 or 1 videos in preview
 
+- Metadatas indexed by the algorithm are app title, subtitle, keyword field, bundel id, developer name, in app purchase name, keywords in ratings and reviews. 
+
+- We should plan ASO from pre launch: First 7 days of the launch are critical, so if we can drive lots of downloads during the first 7 days, then we will start off lot higger in search ranking than a usual launch. Tip from the <a href = "https://www.youtube.com/watch?v=bhS2GRmiKd8&t=1805s"> video </a> at 20:00 seconds mark  
+
 - Title has a huge impact on conversition rate. For example, "Hilly - Super Dating App" to "Hilly - Dating App for Singles" lead to 20% increase in app units/product page view, so use relevant title.
 
 - Use seasonal metadatas (screenshots, icon, video). For example, hallowen, valentine, chrismas will have different design in USA. Consider these seasonal marketing assets based on localization. 
