@@ -83,6 +83,8 @@
 
 - Localization is critical to an app's success. Use tool like <a href = "https://crowdin.com/"> Crowdin </a> to automate app localization. Collect lots of feedback from translators on how you can improve app's user expereince for their language. 
 
+- When doing keyword research, performing competitor keyword analysis for relatively new apps or apps which have the same standing as you are significantly better than analyzing apps that are 100x bigger than us because new apps have some key medium traffic and low competition keywords which are driving traffic for them. 
+
 - Focusing on high traffic keyword can sometimes be counter productive for a relatively new apps. Target long tail keywords with good traffic (ASA score above 20) and low compitition. 
 
 - If you're unable to rank for any good traffic keyword, then consider low traffic keywords (ASA between 10 to 20) only if the difficulty is low enough. In App Radar, the difficulty score of 30 or below is considered low difficulty, whereas 70 is lot more difficult. 
