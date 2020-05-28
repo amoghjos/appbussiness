@@ -97,6 +97,8 @@
 
 - Algorithm penalize for using brand name of compitior in metadata, so don't use it. 
 
+- Changing the branding and app title could have a siginificant impact on the keyword ranking:  <a href = "https://www.apptweak.com/aso-blog/how-aso-can-lead-to-success-against-giants-in-the-category"> How smaller apps use ASO to rise in fitness category </a> 
+
 - Keyword research tools: Apple Search Ads, App Follow, Mobile Action Recommendation & Keyword Spy, App Radar, <a href = "https://www.onelook.com/"> OneLook </a> 
 
 - Using keywords we already rank for or algorithm think we are a good match (i.e. suggested by Apple Search Ads) should be our first consideration when selecting keywords
