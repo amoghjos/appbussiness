@@ -79,6 +79,8 @@
 
 - Title has a huge impact on conversition rate. For example, "Hilly - Super Dating App" to "Hilly - Dating App for Singles" lead to 20% increase in app units/product page view, so use relevant title.
 
+- Don't use keywords, even if they are super relevant and easy to rank for, if the Apple Search Score is less than 7. 
+
 - Use seasonal metadatas (screenshots, icon, video). For example, hallowen, valentine, chrismas will have different design in USA. Consider these seasonal marketing assets based on localization. 
 
 - Localization is critical to an app's success. Use tool like <a href = "https://crowdin.com/"> Crowdin </a> to automate app localization. Collect lots of feedback from translators on how you can improve app's user expereince for their language. 
