@@ -29,6 +29,8 @@
 
 <a href = "https://dribbble.com/"> Dribbble </a> - World's biggest collection of designs which designers use to find inspiration
 
+<a href = "https://www.figma.com/file/9j4JDeE2OMgYz4s8teZO1J/All-Icons?node-id=0%3A1"> Icons </a> - I created this figma file which contains the collection of all the icons used in day to day design
+
 <a href = "https://www.opendoodles.com/ "> OpenDoodles </a> - Collections of illustrations to show various day to day activities
 
 <a href = "https://www.humaaans.com/"> Humaaans </a> - Collection of human illustrations - Highly customizable.
