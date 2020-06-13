@@ -97,6 +97,8 @@
 
 - ASA score grows exponential to the number of impressions (downloads). A score of 45 is way far better than 25. 
 
+- Spanish Mexico localization is indexed by the US App Store, so we can increase the number of characters for the metadata feild. Note that we should use a different title and sub title for Spanish Mexico because repeating same keyword from the US App Store in Spanish Mexico title or sub title does not provide any additional benefit to ranking for the already using keyword in the US App Store. 
+
 - We should use misspellings, typos, and abbreviations of an app's brand name. As we achieve #1 rank due to extreme high conversition rate (since it's our brand), we can later remove it also and still maintain high ranking. 
 
 - Algorithm penalize for using brand name of compitior in metadata, so don't use it. 
