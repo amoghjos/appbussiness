@@ -60,16 +60,39 @@
 
 # App Marketing
 
-<h3>General</h3>
-<a href = "https://phiture.com/mobilegrowthstack/"> Mobile Growth Stack </a> - Blog Publication which contains all latest information on mobile app marketing
+#### General Resources
+- <a href = "https://phiture.com/mobilegrowthstack/"> Mobile Growth Stack </a>
 
-## ASO
+## User Acquisition
+
+### App Store Optimization
+
+App Store Optimization is the process of driving organic traffic to the app from the search results. It's the most important channel of user acquisition because 65% of the downloads come from App Store search. 
+
+#### Getting Started
+
+- <a href = "https://appradar.com/academy/aso-basics/what-is-app-store-optimization-aso"> What is App Store Optimization? </a> - It's a good guide to get started with ASO
+
+#### ASO Tools
+
+- Mobile Action
+- AppFollow 
+- SensorTower
+- Apple Search Ads (for finding ASA score)
+
+#### Resources
 
 <a href = "https://asostack.com/"> ASO Stack </a> - Blog Publication which contains all latest information on ASO 
 
 <a href = "https://drive.google.com/file/d/1ZiyCT34ebdwdJoC2sq_p8B9bVos7t2h6/view?usp=sharing"> ASO for Japan </a> - Slides presented by Azusa Hatano on how to design screenshots for Japanese market and research/target keywords
 
-### App Store Key Take Away
+#### Apple Search Ads Resources
+
+<a href = "https://searchads.apple.com/help/advanced/0022-use-the-campaign-management-api/"> Campaign Management API </a> - API used to measure ASA key metrics like keyword type, campaign name, etc
+
+growthstack/"> Mobile Growth Stack </a> - Blog Publication which contains all latest information on mobile app marketing
+
+### Apple App Store ASO - Key Take Aways
 
 - Main factors which affect keyword ranking are conversition rate, keyword selection (competition), keyword placement in metadata, ratings and reviews, rentension & engagement, monitization, download velocity, Apple Search Ads (coorelation factor), category benchmark, competition benchmark, Apple Feature, localization, update frequency, and backlinks.  
 
@@ -109,17 +132,41 @@
 
 - Using keywords we already rank for or algorithm think we are a good match (i.e. suggested by Apple Search Ads) should be our first consideration when selecting keywords
 
-
-
-### Activation & Retension
+## Activation & Retension
 
 <a href = "https://amplitude.com/mobile-analytics?ref=blog-cta"> Mobile Analytics Guide with 50+ Resources for App Makers </a> - List of blog articles about activation and retension and how to use mobile app analytics to improve these KIPs
 
 <a href = "https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=9"> User Onboard </a> - Website which contains examples of all the popular apps on how they onboard their users
 
-<h3>Apple Search Ads</h3>
+#### Mobile App Analytics Tools
 
-<a href = "https://searchads.apple.com/help/advanced/0022-use-the-campaign-management-api/"> Campaign Management API </a> - API used to measure ASA key metrics like keyword type, campaign name, etc
+- Firebase
+- Amplitude
+- Branch
+- UXCam
+
+#### Onboarding
+Following features should be present in the app when user is doing onboarding. 
+- Language selection
+- About our app in 5 features or less
+- Pricing Page
+- Push Notification Permission(in case user don't sign up, send them push)
+- Any other permission (calendar, health kit, reminder, siri, etc)
+- Sign up options (Apple, Facebook, Google, Email, Phone). Based on audience, SnapChat, GitHub, Microsoft account can also be used. 
+
+#### Email Marketing
+We should send email to the user for the following cases
+
+- Welcome emails which also contains tips for using our app
+- Win back emails to reactivate lost users 
+- Uninstall tracking email: Why did you uninstalled our app and how can improve it?
+- Purchase confirmation/receipt (if your app has purhcase associated in it)
+- Discount offers with timer
+- Why you purchased the pro version?
+- New features you would like to see in our app?
+- Reminder Email - As every app should have some sort of reminder feature, so if user ignores often, then send them a reminder by email. 
+- Back Up/Stats email (this statement can also be used to collect email address as everyone want's backup/stats of their data). For example, Grammerly weekly stats email
+- Weekly/Daily Newsletter
 
 # Essential Tools
 
